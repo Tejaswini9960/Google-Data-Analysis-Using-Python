@@ -24,9 +24,13 @@ Compared related keywords (e.g., Cloud Computing, AI, Machine Learning) and plot
 Tools & Libraries Used
 
 Python
+
 Pytrends
+
 Pandas
+
 Matplotlib / Seaborn
+
 Plotly
 
 Outcome
