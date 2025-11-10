@@ -22,6 +22,7 @@ Extracted and analyzed the trend of interest over time to understand how the key
 Compared related keywords (e.g., Cloud Computing, AI, Machine Learning) and plotted graphs to visualize their popularity trends.
 
 Tools & Libraries Used
+
 Python
 Pytrends
 Pandas
@@ -29,4 +30,5 @@ Matplotlib / Seaborn
 Plotly
 
 Outcome
+
 This project provides a clear visualization of global search interest patterns, enabling a data-driven understanding of technology trends across countries and over time.
